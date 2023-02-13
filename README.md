@@ -14,8 +14,8 @@
   <tr>
      <td> cd  /"directory </td>
     <td> Change directory</td>
-       <tr><td></td><td>  </td> </tr>
-       <tr><td></td><td>  </td> </tr>
+       <tr><td>.</td><td> . </td> </tr>
+       <tr><td>.</td><td> .</td> </tr>
  <tr><td>ACTION WITH FILES</td><td>  </td> </tr>
     <tr><td> cd /qa\ s\`dan </td>
   <td> Change directory with "bash" names <br><i>(for example folders name - "qa s`dan")</i></br></td></tr>
