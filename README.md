@@ -4,7 +4,7 @@
 ~~ TERMINAL GLOSSARIES ~~
     
   <table align="center">
-   <tr><td>NAVIGATION</td><td>  </td> </tr>
+   <tr><td>~~~NAVIGATION~~~</td><td>  </td> </tr>
     <tr><td> cd </td>
   <td> Go to main directory </td></tr>
     <tr><td> cd .. </td>
@@ -19,7 +19,7 @@
        <tr><td>.</td><td> . </td> </tr>
        <tr><td>.</td><td> .</td> </tr>
        
- <tr><td>ACTION WITH FILES</td><td>  </td> </tr>
+ <tr><td>~~~ACTION WITH FILES~~~</td><td>  </td> </tr>
     <tr><td> open "filename"</td>
   <td> Open the file</td></tr>
     <tr><td> cp “filename” “newfilename”</td>
@@ -34,17 +34,25 @@
   <td> Create the folder </td></tr>
             <tr><td> rmdir "folderName" </td>
   <td> Remove EMPTY folder (only for Empty) </td></tr>
+              <tr><td> rm -R “/path/to/root/directory” </td>
+  <td> Remove nested directories </td></tr>
+       <tr><td> ditto -V MyFolder MyNewFolder </td>
+  <td> Copy contents of a folder to a new folder </td></tr>
          <tr><td>.</td><td> . </td> </tr>
        <tr><td>.</td><td> .</td> </tr>
        
- <tr><td>ANOTHER</td><td>  </td> </tr>
+ <tr><td>~~~ANOTHER~~~</td><td>  </td> </tr>
      <tr><td>ls</td>
   <td> Listing Directory</td></tr>
+       <tr><td>clear</td>
+  <td> Clear the Terminal</td></tr>
        <tr><td>pwd</td>
   <td> Where am I now</td></tr>
     <tr><td> man ls</td>
   <td> Look the Manual ls commands. For Exit - push "q" </td></tr>
     <tr> <td>ls -lSh</td>
   <td> Sort by Size (Kb, Mb). "S" - exactly UpRegister</td></tr>
+      <tr> <td>whatis "command"</td>
+  <td> what is this Command (whatis pwd, whatis mkdir etc)</td></tr>
     </table>
 </p>
