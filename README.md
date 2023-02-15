@@ -28,6 +28,8 @@
   <td> Copy file to another directory </td></tr>
       <tr><td> mv “filename” “path/to/new/file/location” </td>
   <td> Move a file </td></tr>
+        <tr><td> mv “filename” “newFileName” </td>
+  <td> Rename a file </td></tr>
         <tr><td> touch myfile.txt </td>
   <td> Create a text file </td></tr>
           <tr><td> mkdir "someName" </td>
