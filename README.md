@@ -44,6 +44,10 @@
        <tr><td>.</td><td> .</td> </tr>
        
  <tr><td>~~~ANOTHER~~~</td><td>  </td> </tr>
+      <tr><td>open .</td>
+  <td> Open folder where we now</td></tr>
+       <tr><td>open ../someFileOrFolder</td>
+  <td> Open File or Folder</td></tr>
      <tr><td>ls</td>
   <td> Listing Directory</td></tr>
        <tr><td>clear</td>
