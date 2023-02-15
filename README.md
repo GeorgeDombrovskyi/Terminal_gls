@@ -26,7 +26,7 @@
   <td> copy file </td></tr>
     <tr><td> cp “filename” “~/Desktop/someFolder/newFileName”</td>
   <td> Copy file to another directory </td></tr>
-      <tr><td> mv “filename” “path/to/new/file/location” </td>
+      <tr><td> mv “filename” “path/to/new/file/location/fileName” </td>
   <td> Move a file </td></tr>
         <tr><td> mv “filename” “newFileName” </td>
   <td> Rename a file </td></tr>
