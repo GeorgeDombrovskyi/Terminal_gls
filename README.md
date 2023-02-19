@@ -62,3 +62,7 @@
   <td> what is this Command (whatis pwd, whatis mkdir etc)</td></tr>
     </table>
 </p>
+
+| 1 | 2|
+|<---|<---|
+|op| po|
