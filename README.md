@@ -24,6 +24,8 @@
 |    rmdir "folderName" |   Remove EMPTY folder (only for Empty) |
 |   rm -R “/path/to/root/directory”|    Remove nested directories |
 |    ditto -V MyFolder MyNewFolder |    Copy contents of a folder to a new folder |
+| vim fileName| Open file in txt editor|
+| (in VIM) :x | save and close VIM Editor|
 |   .   |   .   |
 |   .   |   .   |
 |~~~ANOTHER~~~| |
