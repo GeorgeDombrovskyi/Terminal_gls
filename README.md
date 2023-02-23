@@ -1,5 +1,5 @@
 
-# Terminal glossary
+# Terminal  glossary
 
 ### NAVIGATION
 |||
@@ -12,7 +12,7 @@
 
   
    
-### ACTION WITH FILES
+### ACTION  WITH FILES
 
 |||
 |------|------|
